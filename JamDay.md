@@ -44,5 +44,8 @@ Algunos de los servicios que nos tocó utilizar en el reto solo eran conocidos p
 - Es una experiencia de la que me atrevo decir que todos los que participamos queremos repetir porque la idea es siempre superarse a si mismo.
 - Además de la experiencia técnica, el JAM realizado en equipo permite ejercitar habilidades de coordinación de tareas, organización de equipo y solución de problemas que sin ninguna duda son elementos muy deseables en el desarrollo personal y de la organización.
 - Los desafíos como los que plantea el JAM siempre dejarán aprendizaje. En la próxima oportunidad que tengan hagan lo posible por participar. No se arrepentirán.
+<center>
 
 ![AWS JAM Logo](https://cdn.hashnode.com/res/hashnode/image/upload/v1675399380355/7FU27O5c3.png?auto=compress)
+
+</center>
