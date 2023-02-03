@@ -8,11 +8,11 @@ domain: blog.igvir.com
 ---
 
 ## ¿Qué es el AWS JAM?
-Los eventos de AWS Jams están diseñados para ayudar a las personas y empresas a aprender nuevas habilidades y probar su conocimiento de la nube. En general se debe tener algún conocimiento sobre los servicios básicos de AWS para participar y según el nivel del evento el nivel  requerido podría aumentar. No en vano su lema es:
+Los eventos [AWS Jams](https://jam.awsevents.com/) están diseñados para ayudar a las personas y empresas a aprender nuevas habilidades y probar su conocimiento de la nube. En general se debe tener algún conocimiento sobre los servicios básicos de AWS para participar y según el nivel del evento el nivel  requerido podría aumentar. No en vano su lema es:
 
 >Ponga a prueba sus habilidades resolviendo desafíos que emulan casos de uso reales de AWS en una variedad de temas.
 
-El JAM se plantea como una competencia, o tal vez sea mejor decir un reto. En mi caso el JAM Day se realizó en equipos de tres personas en las que todos los participantes forman parte del equipo colaboradores de [GBM](https://www.gbm.net/). 
+El JAM se plantea como una competencia, o tal vez sea mejor decir un reto. En mi caso el JAM Day se realizó en equipos de tres personas en las que todos los participantes eran colaboradores de [GBM](https://www.gbm.net/). 
 
 En nuestro caso había un motivador adicional para la competencia, se premiría a los tres primeros equipos en la tabla de posiciones al finalizar las cuatro horas de JAM.
 
