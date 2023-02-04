@@ -7,9 +7,9 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675520546860/6blFGu6
 domain: blog.igvir.com
 ---
 
-## Are your ready?
+## Are you ready?
 
-A new challenge for those interested in AWS certification has already been announced. This time it's the Professional Challenge. A certification exam preparation program with new advanced training including live and on-demand Twitch sessions with AWS experts.
+A new challenge for those interested in AWS certification has already been announced. This time it's the Professional Challenge. A certification exam preparation program with advanced training including live and on-demand Twitch sessions with AWS experts.
 
 If you join the [Get AWS Certified: Professional Challenge](https://pages.awscloud.com/GLOBAL-ln-GC-TrainCert-Professional-Certification-Challenge-Registration-2023.html) before April 28, they will send you a 50% discount coupon for the professional level certification exam. The options are:
 
