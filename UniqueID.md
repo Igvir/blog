@@ -73,16 +73,14 @@ As mentioned earlier, we use java.security.MessageDigest class and SHA-1 Algorit
 The code creates a new file input stream for reading the file content. The data is processed using the update method call. Once all the data has been updated, the digest methods should be called to complete the hash computation.
 
 See the code:
-
-<script src="https://gist.github.com/Igvir/6652eaf6c1e5832e2ae4d3d1d12146a0.js"></script>
-
+%[https://gist.github.com/Igvir/6652eaf6c1e5832e2ae4d3d1d12146a0]
 
 
 ### Step 3: Generate the UID
 
 The digest method returns an array of bytes in decimal format. We need to convert it to hexadecimal format before call toString() method to finally to get an UID based on file data. 
 
-<script src="https://gist.github.com/Igvir/d8af1d8a59c2e678790fa5f7067c9691.js"></script>
+%[https://gist.github.com/Igvir/d8af1d8a59c2e678790fa5f7067c9691]
 
 If the file changes in any way the resultant hash code will be different. You can handle those differences according to the context as a new version or as an integrity check failure. 
 
@@ -90,8 +88,7 @@ If the file changes in any way the resultant hash code will be different. You ca
 
 The complete code can be found bellow:
 
-<script src="https://gist.github.com/Igvir/2a1a94e7c348049de110d8d2fa5bb94b.js"></script>
-
+%[https://gist.github.com/Igvir/2a1a94e7c348049de110d8d2fa5bb94b]
 
 ## Conclusions
 
