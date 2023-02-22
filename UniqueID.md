@@ -73,6 +73,7 @@ As mentioned earlier, we use java.security.MessageDigest class and SHA-1 Algorit
 The code creates a new file input stream for reading the file content. The data is processed using the update method call. Once all the data has been updated, the digest methods should be called to complete the hash computation.
 
 See the code:
+
 %[https://gist.github.com/Igvir/6652eaf6c1e5832e2ae4d3d1d12146a0]
 
 
