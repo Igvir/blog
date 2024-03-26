@@ -5,7 +5,7 @@ slug: arquitectura-pagos-criticos
 tags: multiregion, arquitectura, pagos
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711421285720/ABxl740lg.jpg?auto=format
 domain: blog.igvir.com
-ignorePost: true
+ignorePost: false
 ---
 AWS acaba de [publicar un artículo](https://aws.amazon.com/blogs/industries/architecting-critical-payment-systems-for-multi-region-resiliency/) en el que se exploran las prácticas para diseñar sistemas de pago críticos que sean altamente resilientes en entornos de múltiples regiones. Eugene Istrati, Jack Iu y Tarik Makota, autores del texto son Arquitectos de Solución en AWS para el sector financiero y destacan la importancia de la alta disponibilidad y la tolerancia a fallos en sistemas financieros, donde la interrupción del servicio puede tener consecuencias significativas.
 
