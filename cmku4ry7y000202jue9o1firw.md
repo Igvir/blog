@@ -7,7 +7,6 @@ cuid: cmku4ry7y000202jue9o1firw
 slug: why-i-wrote-a-book-about-ai-for-non-technical-people
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769368517379/55da7ba3-0abb-444c-af41-ce345623d88b.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1769369030592/b3d3ba31-340d-49af-bd00-338b83e2648f.png
-tags: productivity, ai-tools, chatgpt, worksmarter, aiforbeginners, non-technical-guide
 
 ---
 
