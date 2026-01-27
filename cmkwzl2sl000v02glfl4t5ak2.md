@@ -6,6 +6,7 @@ datePublished: Tue Jan 27 2026 19:25:44 GMT+0000 (Coordinated Universal Time)
 cuid: cmkwzl2sl000v02glfl4t5ak2
 slug: notes-on-the-dynamodb-book-by-alex-debrie
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769541170480/bcd20329-7eb3-4192-9e2e-a9abf44c584f.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1769542130047/f621ffa8-519e-4990-bdaa-ca6887300ac3.png
 tags: nosql, aws, books, dynamodb, cloud-computing, alex-debrie
 
 ---
