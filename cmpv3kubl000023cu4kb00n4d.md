@@ -1,7 +1,5 @@
 ---
-title: "From code author to system steward: what changes inside AI-DLC
-
-"
+title: "From code author to system steward: what changes inside AI-DLC"
 datePublished: 2026-06-01T11:00:00.000Z
 cuid: cmpv3kubl000023cu4kb00n4d
 slug: from-code-author-to-system-steward
