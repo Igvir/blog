@@ -1,6 +1,6 @@
 ---
 title: "Amazon Corretto 22: Feature Release"
-datePublished: Mon Apr 01 2024 16:28:44 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-04-01T16:28:44.351Z
 cuid: cluh604am000008l43z6nbjqs
 slug: amazon-corretto-22-feature-release
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711988645842/99d35e96-4ddc-4564-968c-8f758414986c.jpeg
