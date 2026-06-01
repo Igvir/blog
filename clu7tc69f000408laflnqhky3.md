@@ -1,6 +1,6 @@
 ---
 title: "Arquitectura de sistemas de pago críticos"
-datePublished: Tue Mar 26 2024 03:24:16 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-03-26T03:24:16.179Z
 cuid: clu7tc69f000408laflnqhky3
 slug: arquitectura-de-sistemas-de-pago-criticos
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711423054848/eff110f6-b0d4-4d82-85ca-bd7c642999f1.jpeg
