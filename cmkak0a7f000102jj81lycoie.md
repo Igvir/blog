@@ -2,7 +2,7 @@
 title: "The AI That Ran a Store: The Unexpected Results of Project Vend"
 seoTitle: "What Happens When AI Runs a Business? Anthropic's Experiment"
 seoDescription: "Project Vend: Anthropic let AI agent Claudius manage a real store. It was too nice to profit, thought it was human, and tried illegal deals. Here's what we "
-datePublished: Mon Jan 12 2026 02:38:44 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-12T02:38:44.139Z
 cuid: cmkak0a7f000102jj81lycoie
 slug: the-ai-that-ran-a-store-the-unexpected-results-of-project-vend
 canonical: https://www.linkedin.com/pulse/la-ia-que-dirigi%C3%B3-una-tienda-los-inesperados-del-vend-igvir-fhofe/?trackingId=WZQvSaMCQxaaGxTyX43CGw%3D%3D
