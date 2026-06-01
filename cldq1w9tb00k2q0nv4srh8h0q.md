@@ -1,6 +1,6 @@
 ---
 title: "AWS Certified Professional Challenge 2023"
-datePublished: Sat Feb 04 2023 14:28:42 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-02-04T14:28:42.276Z
 cuid: cldq1w9tb00k2q0nv4srh8h0q
 slug: aws-pro-certification-challenge-2023
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675520546860/6blFGu6QF.jpg?auto=compress
