@@ -2,7 +2,7 @@
 title: "AWS Integrates DeepSeek-R1 for Cost-Effective Generative Solutions"
 seoTitle: "AWS launches DeepSeek-R1 models"
 seoDescription: "AWS integrates DeepSeek-R1 for efficient AI solutions via SageMaker JumpStart and Bedrock services"
-datePublished: Fri Feb 07 2025 14:45:31 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-02-07T14:45:31.348Z
 cuid: cm6uvp5qs000d09l1b5w8d2mb
 slug: aws-integrates-deepseek-r1-models
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738938404740/7486740a-19a8-4d8f-a621-dd337274d4bd.jpeg
