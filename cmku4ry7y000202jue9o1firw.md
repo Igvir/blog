@@ -2,7 +2,7 @@
 title: "Why I Wrote a Book About AI for Non-Technical People"
 seoTitle: "AI Tools for Everyday Tasks: A Practical Guide for Non-Technical Users"
 seoDescription: "Learn how AI tools can simplify your daily tasks. A practical guide for non-technical people who want to work smarter with artificial intelligence."
-datePublished: Sun Jan 25 2026 19:27:44 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-25T19:27:44.638Z
 cuid: cmku4ry7y000202jue9o1firw
 slug: why-i-wrote-a-book-about-ai-for-non-technical-people
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769368517379/55da7ba3-0abb-444c-af41-ce345623d88b.png
@@ -24,11 +24,11 @@ What's missing is practical, honest guidance for people who just want to get thi
 
 If you're reading this, you probably already use some AI tools. Maybe you've asked ChatGPT a few questions or tried an AI image generator. But you might be wondering:
 
-* "Am I using these tools effectively?"
+*   "Am I using these tools effectively?"
     
-* "What else could I be doing with AI?"
+*   "What else could I be doing with AI?"
     
-* "How do I separate useful tools from overhyped gimmicks?"
+*   "How do I separate useful tools from overhyped gimmicks?"
     
 
 This book is my answer to those questions. It's written for professionals, students, parents, entrepreneurs—anyone who wants to work smarter without becoming a tech expert.
@@ -37,13 +37,13 @@ This book is my answer to those questions. It's written for professionals, stude
 
 I didn't write another theoretical guide. Instead, I focused on:
 
-* **Real scenarios**: Each chapter tackles actual everyday tasks
+*   **Real scenarios**: Each chapter tackles actual everyday tasks
     
-* **Tool comparisons**: Honest assessments of what works (and what doesn't)
+*   **Tool comparisons**: Honest assessments of what works (and what doesn't)
     
-* **Practical examples**: Step-by-step guidance you can apply immediately
+*   **Practical examples**: Step-by-step guidance you can apply immediately
     
-* **No fluff**: I skip the hype and focus on what genuinely saves time
+*   **No fluff**: I skip the hype and focus on what genuinely saves time
     
 
 As a solutions architect, I've spent years evaluating technology. I apply that same rigor here—but explained in plain language.
@@ -66,6 +66,10 @@ I'm publishing it on Leanpub, which means you can get early access as I complete
 
 If you're curious about AI but overwhelmed by the noise, this book is for you.
 
-Check it out at [https://leanpub.com/ai-tools](https://leanpub.com/ai-tools) or [Amazon Store](https://www.amazon.com/dp/B0GF8R2343) and let me know what you think. I'd love to hear which everyday tasks you're hoping to improve with AI.
-
+Check it out at [https://leanpub.com/ai-tools](https://leanpub.com/ai-tools) or [Amazon Store](https://www.amazon.com/dp/B0GF8R2343) and let me know what you think. I'd love to hear which everyday tasks you're hoping to improve with AI.  
+  
+**Now available in spanish**  
+  
+Disponible en [https://leanpub.com/ia-tareas-cotidianas](https://leanpub.com/ia-tareas-cotidianas) y en Amazon [https://www.amazon.com/dp/B0GPX2R1PK](https://www.amazon.com/dp/B0GPX2R1PK)  
+  
 Let's make technology work for us—not the other way around.
