@@ -2,7 +2,7 @@
 title: "Notes on "The DynamoDB Book" by Alex DeBrie"
 seoTitle: "Notes on 'The DynamoDB Book' by Alex DeBrie"
 seoDescription: "Software architect's review of "The DynamoDB Book" by Alex DeBrie: what works, what's missing, and whether it's worth it for backend developers."
-datePublished: Tue Jan 27 2026 19:25:44 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-27T19:25:44.421Z
 cuid: cmkwzl2sl000v02glfl4t5ak2
 slug: notes-on-the-dynamodb-book-by-alex-debrie
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769541170480/bcd20329-7eb3-4192-9e2e-a9abf44c584f.png
