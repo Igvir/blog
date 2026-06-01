@@ -1,6 +1,6 @@
 ---
 title: "Mi primer AWS Partner JAM"
-datePublished: Fri Feb 03 2023 04:54:24 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-02-03T04:54:24.743Z
 cuid: cldo1xvjw01ggatnvfdi68icc
 slug: mi-primer-aws-partner-jam
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675395737534/Ei9oBDW4s.png?auto=compress
