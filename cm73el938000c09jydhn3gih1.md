@@ -1,7 +1,7 @@
 ---
 title: "AWS Certified AI Practitioner Exam Preparation"
 seoDescription: "Prepare for the AWS Certified AI Practitioner exam with this comprehensive guide. Discover exam structure, study recommendations, essential AWS services, an"
-datePublished: Thu Feb 13 2025 13:56:31 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-02-13T13:56:31.172Z
 cuid: cm73el938000c09jydhn3gih1
 slug: aws-certified-ai-practitioner-exam-preparation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739309848095/33357ef2-88a8-49da-a8a4-35dbf7a6fa62.png
