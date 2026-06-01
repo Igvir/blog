@@ -2,7 +2,7 @@
 title: "Invoke Lambda Functions Across AWS Accounts"
 seoTitle: "Invoke Lambda Functions Across AWS Accounts"
 seoDescription: "A Lambda networking POC using multiple AWS accounts"
-datePublished: Fri Jun 24 2022 12:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-06-24T12:00:00.944Z
 cuid: cl4seie2n07db9vnv049h6wyg
 slug: invoke-lambda-functions-across-aws-accounts
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1655938053944/2VvyxPapR.jpg
