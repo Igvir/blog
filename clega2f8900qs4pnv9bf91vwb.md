@@ -1,6 +1,6 @@
 ---
 title: "Using Hash Codes as Unique Identifiers"
-datePublished: Wed Feb 22 2023 22:59:26 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-02-22T22:59:26.726Z
 cuid: clega2f8900qs4pnv9bf91vwb
 slug: using-hashcodes-as-id
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677083896173/aHYhj1QrG.jpg?auto=compress
