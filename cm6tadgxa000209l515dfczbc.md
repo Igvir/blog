@@ -1,6 +1,6 @@
 ---
 title: "The Rise of Agentic AI: Transforming Industries with Autonomous Intelligence"
-datePublished: Thu Feb 06 2025 12:00:47 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-02-06T12:00:47.854Z
 cuid: cm6tadgxa000209l515dfczbc
 slug: the-rise-of-agentic-ai-transforming-industries-with-autonomous-intelligence
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738792651441/021a56c3-5106-43b0-9e9c-3f8317b98e89.jpeg
